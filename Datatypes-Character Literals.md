@@ -15,5 +15,6 @@ print('a')
 ```
 ## Output
 <img width="543" height="440" alt="image" src="https://github.com/user-attachments/assets/6db241ab-54d3-40e6-b5cb-241125f48f85" />
+
 ## Result
 The program is executed.
